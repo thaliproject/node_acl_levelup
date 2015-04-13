@@ -1,0 +1,36 @@
+{
+  "name": "node_acl_levelup",
+  "version": "1.0.0",
+  "description": "Levelup adapter for the Node_ACL project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/runner.js --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaliproject/node_acl_levelup.git"
+  },
+  "keywords": [
+    "levelup",
+    "leveldown",
+    "leveldb",
+    "acl"
+  ],
+  "author": "Matthew Podwysocki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thaliproject/node_acl_levelup/issues"
+  },
+  "homepage": "https://github.com/thaliproject/node_acl_levelup",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4"
+  },
+  "dependencies": {
+    "acl": "^0.4.7",
+    "levelup": "^0.19.0",
+    "lodash": "^3.6.0",
+    "memdown": "^1.0.0",
+    "rx": "^2.5.1"
+  }
+}
