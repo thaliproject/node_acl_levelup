@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/thaliproject/node_acl_levelup.png)](https://travis-ci.org/thaliproject/node_acl_levelup)
 [![GitHub version](http://img.shields.io/github/tag/thaliproject/node_acl_levelup.svg)](https://github.com/thaliproject/node_acl_levelup)
-[![NPM version](http://img.shields.io/npm/v/rx.svg)](https://npmjs.org/package/node_acl_levelup)
-[![Downloads](http://img.shields.io/npm/dm/rx.svg)](https://npmjs.org/package/node_acl_levelup)
+[![NPM version](http://img.shields.io/npm/v/node_acl_levelup.svg)](https://npmjs.org/package/node_acl_levelup)
+[![Downloads](http://img.shields.io/npm/dm/node_acl_levelup.svg)](https://npmjs.org/package/node_acl_levelup)
 
 # LevelUp adapter for ACL #
 
