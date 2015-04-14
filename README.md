@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/thaliproject/node_acl_levelup.png)](https://travis-ci.org/thaliproject/node_acl_levelup)
+[![GitHub version](http://img.shields.io/github/tag/thaliproject/node_acl_levelup.svg)](https://github.com/thaliproject/node_acl_levelup)
+[![NPM version](http://img.shields.io/npm/v/rx.svg)](https://npmjs.org/package/node_acl_levelup)
+[![Downloads](http://img.shields.io/npm/dm/rx.svg)](https://npmjs.org/package/node_acl_levelup)
+
 # LevelUp adapter for ACL #
 
 This project is an adapter for [LevelUP](https://github.com/rvagg/node-levelup) library for the [NODE ACL](https://github.com/OptimalBits/node_acl) project.
